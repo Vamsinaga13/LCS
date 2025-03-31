@@ -36,10 +36,6 @@ Host events and meetings seamlessly. Bring your community together and ensure ev
 - **Movement**  
   More than a platform—we're transforming how people organize and lead.
 
-### **Our Impact**
-- **5,000+** Volunteers
-- **120+** Events Hosted
-- **$2M+** Funds Raised
 
 ## **What We Implemented**
 - **User Authentication:** Secure sign-in and sign-out functionality.
@@ -47,11 +43,6 @@ Host events and meetings seamlessly. Bring your community together and ensure ev
 - **Dashboard:** A simple and intuitive interface to track events and participation.
 - **Notifications:** Alerts for upcoming events and meetings.
 
-## **Similar Projects**
-- **Microsoft Teams:** Used in corporate environments for communication and collaboration.
-- **Facebook Events:** A platform where users can create and join events.
-- **Google Calendar Events:** Allows scheduling and tracking of events.
-- **Eventbrite:** A ticketing and event management platform.
 
 ## **Tech Stack Used**
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
